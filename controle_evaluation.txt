@@ -1,0 +1,158 @@
+Question : nullité du procès-verbal de saisie douanière  (faits : 2025-03-01)
+   OK    Code des douanes (ancien), art. 325  → Textes législatifs et réglementaires français, rang 1
+   ABSENT Code des douanes (nouveau), art. L443-1  (origine : vous)
+   OK    Code des douanes (nouveau), art. L443-3  → Textes législatifs et réglementaires français, rang 11
+   OK    Code des douanes (nouveau), art. L443-4  → Textes législatifs et réglementaires français, rang 5
+   OK    Code des douanes (nouveau), art. L443-5  → Textes législatifs et réglementaires français, rang 10
+   ABSENT Code des douanes (nouveau), art. L443-6  (origine : vous)
+   OK    Code des douanes (nouveau), art. L443-7  → Textes législatifs et réglementaires français, rang 12
+   ABSENT Code des douanes (ancien), art. 338  (origine : claude)
+   OK    n° 00-87.897  → Jurisprudence française, rang 9
+   OK    n° 90-87.162  → Jurisprudence française, rang 5
+
+Question : droit de se taire retenue douanière  (faits : 2025-03-01)
+   OK    n° 10-88.809  → Jurisprudence française, rang 1
+   OK    n° 11-80.034  → Jurisprudence française, rang 3
+   OK    n° 11-88.589  → Jurisprudence française, rang 2
+   OK    Code des douanes (ancien), art. 323-6  → Textes législatifs et réglementaires français, rang 1
+
+Question : Quelles sont les démarches et les documents nécessaires pour importer une arme en France ?  (faits : non précisé)
+   (aucun attendu renseigné : voici les premiers résultats, à valider ou corriger par un juriste)
+   Textes législatifs et réglementaires français :
+      1. Code des douanes (nouveau), art. R411-24
+      2. Code des douanes (nouveau), art. R411-23
+      3. Code de procédure pénale, art. D47-1-19
+      4. Code de procédure pénale, art. 141-5
+      5. Code des douanes (nouveau), art. L132-2
+      6. Code des douanes (nouveau), art. R411-21
+   Droit de l'Union (textes) :
+      1. Règlement délégué (UE) 2015/2446, art. 12
+      2. Règlement (UE) n° 952/2013, art. 117
+      3. Règlement (UE) n° 952/2013, art. 119
+      4. Règlement (UE) 2026/2108, art. 218
+      5. Règlement d'exécution (UE) 2015/2447, art. 175
+      6. Règlement (UE) 2026/2108, art. 220
+   Jurisprudence française :
+      1. Cass. crim., 14 juin 1993, n° 92-81.604 (publié au Bulletin)
+      2. Cass. crim., 19 déc. 1996, n° 95-83.786 (publié au Bulletin)
+      3. Conseil d'Etat, 1 / 4 SSR, du 27 septembre 1985, 44484 44485, publié au recueil Lebon
+      4. Cass. crim., 18 sept. 2002, n° 01-84.522 (publié au Bulletin)
+      5. Cass. crim., 5 mai 1997, n° 95-86.136 (publié au Bulletin)
+      6. Décision 2025-885 DC - 12 juin 2025 - Loi visant à sortir la France du piège du narcotrafic - Non conformité partielle - réserve
+   Jurisprudence de l'Union (CJUE) :
+      1. CJUE, arrêt de la Cour, 26 mai 2016, affaire C-262/15 (CELEX 62015CJ0262)
+      2. CJUE, arrêt de la Cour, 17 déc. 2020, affaire C-656/19 (CELEX 62019CJ0656)
+      3. CJUE, arrêt de la Cour, 15 déc. 2009, affaire C-294/05 (CELEX 62005CJ0294)
+      4. CJUE, arrêt de la Cour, 26 mai 2016, affaire C-286/15 (CELEX 62015CJ0286)
+      5. CJUE, arrêt de la Cour, 27 sept. 2001, affaire C-253/99 (CELEX 61999CJ0253)
+      6. CJUE, arrêt de la Cour, 21 sept. 2023, affaire C-770/21 (CELEX 62021CJ0770)
+   Doctrine administrative (BOD) :
+      1. DA 12-034 du 3 août 2012
+      2. DA 97-203 du 11 août 1997
+      3. DA 99-010 du 11 janv. 1999
+      4. DA 98-039 du 26 mars 1998
+      5. DA 98-149 du 10 août 1998
+      6. DA 05-013 du 1er déc. 2004
+   Informations pratiques (site douane.gouv.fr) :
+      1. douane.gouv.fr — Démarche Vous résidez dans un autre État membre de l'UE et voyagez en France avec des armes
+      2. douane.gouv.fr — Démarche Vous importez des armes depuis un pays tiers à l'UE, un COM (hors Saint-Martin) ou la Nouvelle-Calédonie
+      3. douane.gouv.fr — Démarche Vous vous déplacez au sein de l’UE avec des armes
+      4. douane.gouv.fr — Démarche Vous importez des armes en Nouvelle-Calédonie, en Polynésie française, à Saint-Pierre-et-Miquelon, à Wallis et Futuna ou à Saint-Barthélémy
+      5. douane.gouv.fr — Démarche Vous vous déplacez hors de l’UE avec des armes
+      6. douane.gouv.fr — Démarche Vous introduisez des armes depuis un État membre de l'UE
+
+Question : Quels documents faut-il avoir pour un voyage avec un médicament classé comme stupéfiant ?  (faits : non précisé)
+   (aucun attendu renseigné : voici les premiers résultats, à valider ou corriger par un juriste)
+   Textes législatifs et réglementaires français :
+      1. Code des douanes (nouveau), art. L231-5
+      2. Code des douanes (nouveau), art. A243-8
+      3. Code des douanes (nouveau), art. A243-7
+      4. Code de procédure pénale, art. Annexe article A43-6-2
+      5. Code des douanes (nouveau), art. R243-8
+      6. Code des douanes (nouveau), art. R243-12
+   Droit de l'Union (textes) :
+      1. Règlement délégué (UE) 2015/2446, art. 63
+      2. Règlement (UE) 2024/1157, art. 2
+      3. Règlement délégué (UE) 2015/2446, art. 200
+      4. Règlement délégué (UE) 2015/2446, art. 37
+      5. Convention de Bâle, annexe III
+      6. Règlement délégué (UE) 2015/2446, art. 49
+   Jurisprudence française :
+      1. Cass. crim., 28 sept. 2016, n° 15-84.383 (publié au Bulletin)
+      2. Cass. crim., 7 nov. 2018, n° 17-84.616 (publié au Bulletin)
+      3. Cass. crim., 17 juil. 1991, n° 90-87.251
+      4. Cass. crim., 19 déc. 2018, n° 18-81.162
+      5. Cass. crim., 5 nov. 2019, n° 18-82.989 (publié au Bulletin)
+      6. Cass. crim., 6 avr. 2016, n° 15-81.203
+   Jurisprudence de l'Union (CJUE) :
+      1. CJUE, arrêt de la Cour, 15 déc. 2016, affaire C-700/15 (CELEX 62015CJ0700)
+      2. CJUE, conclusions de l'avocat général, 14 mai 2020, affaire C-663/18 (CELEX 62018CC0663)
+      3. CJUE, conclusions de l'avocat général, 6 mars 1997, affaire C-405/95 (CELEX 61995CC0405)
+      4. CJUE, arrêt de la Cour, 20 juin 2019, affaire C-1/18 (CELEX 62018CJ0001)
+      5. CJUE, arrêt de la Cour, 9 févr. 2023, affaire C-788/21 (CELEX 62021CJ0788)
+      6. CJUE, conclusions de l'avocat général, 17 juil. 1997, affaire C-270/96 (CELEX 61996CC0270)
+   Doctrine administrative (BOD) :
+      1. DA 22-009 du 31 mars 2022
+      2. DA 08-026 du 29 avr. 2008
+      3. DA 15-006 du 15 janv. 2015
+      4. DA 99-171 du 23 oct. 1999
+      5. DA 97-277 du 22 déc. 1997
+      6. DA 00-211 du 23 nov. 2000
+   Informations pratiques (site douane.gouv.fr) :
+      1. douane.gouv.fr — Le transport de médicaments en France par des particuliers
+      2. douane.gouv.fr — Démarche Vous voyagez avec des médicaments
+      3. douane.gouv.fr — Démarche Importer ou exporter des médicaments stupéfiants et psychotropes
+      4. douane.gouv.fr — Démarche Importer des médicaments
+      5. douane.gouv.fr — notice PDF : Reglt n° 1832 - JOUE L385 - 29-10-21.pdf
+      6. douane.gouv.fr — notice PDF : Reglt n° 1577 - JOUE L361 - 30-10-20.pdf
+
+Question : Quel article du code des douanes reprend les injonctions d'arrêts ?  (faits : non précisé)
+   OK    Code des douanes (nouveau), art. L422-19  → Textes législatifs et réglementaires français, rang 4
+   OK    Code des douanes (nouveau), art. L513-17  → Textes législatifs et réglementaires français, rang 6
+
+Question : Comment est déterminée la valeur en douane ?  (faits : non précisé)
+   OK    Règlement (UE) n° 952/2013, art. 69  → Droit de l'Union (textes), rang 7
+   ABSENT Règlement (UE) n° 952/2013, art. 70  (origine : vous)
+   ABSENT Règlement (UE) n° 952/2013, art. 71  (origine : vous)
+   ABSENT Règlement (UE) n° 952/2013, art. 72  (origine : vous)
+   OK    Règlement (UE) n° 952/2013, art. 74  → Droit de l'Union (textes), rang 6
+
+Question : Quels documents sont nécessaires à l'importation de déchets ?  (faits : non précisé)
+   OK    Convention de Bâle, art. 4  → Droit de l'Union (textes), rang 3
+   OK    Règlement (UE) 2024/1157, art. 11  → Droit de l'Union (textes), rang 6
+   OK    Démarche Importer ou exporter des déchets  → Informations pratiques (site douane.gouv.fr), rang 6
+
+Question : Quels articles punissent le transport commercial de tabac sans document : contrebande, non-déclaration, marchandises réputées importées en contrebande ?  (faits : non précisé)
+   OK    Code des douanes (nouveau), art. L513-5  → Textes législatifs et réglementaires français, rang 10
+
+Question : Quels sont les articles relatifs à la visite domiciliaire ?  (faits : non précisé)
+   OK    Code des douanes (nouveau), art. L423-6  → Textes législatifs et réglementaires français, rang 10
+   OK    Code des douanes (nouveau), art. L423-7  → Textes législatifs et réglementaires français, rang 9
+   OK    Code des douanes (nouveau), art. L423-8  → Textes législatifs et réglementaires français, rang 4
+   OK    Code des douanes (nouveau), art. L423-9  → Textes législatifs et réglementaires français, rang 2
+   OK    Code des douanes (nouveau), art. L423-10  → Section : Section 2 : Visites domiciliaires, rang 5
+   OK    Code des douanes (nouveau), art. L423-11  → Textes législatifs et réglementaires français, rang 1
+   OK    Code des douanes (nouveau), art. L423-12  → Textes législatifs et réglementaires français, rang 8
+   OK    Code des douanes (nouveau), art. L423-13  → Section : Section 2 : Visites domiciliaires, rang 8
+   OK    Code des douanes (nouveau), art. L423-14  → Section : Section 2 : Visites domiciliaires, rang 9
+   OK    Code des douanes (nouveau), art. L423-15  → Section : Section 2 : Visites domiciliaires, rang 10
+   OK    Code des douanes (nouveau), art. L423-16  → Section : Section 2 : Visites domiciliaires, rang 11
+   OK    Code des douanes (nouveau), art. L423-17  → Textes législatifs et réglementaires français, rang 12
+   OK    Code des douanes (nouveau), art. L423-18  → Section : Section 2 : Visites domiciliaires, rang 13
+   OK    Code des douanes (nouveau), art. L423-19  → Textes législatifs et réglementaires français, rang 11
+   OK    Code des douanes (nouveau), art. L423-20  → Section : Section 2 : Visites domiciliaires, rang 15
+   OK    Code des douanes (nouveau), art. L423-21  → Section : Section 2 : Visites domiciliaires, rang 16
+   OK    Code des douanes (nouveau), art. L423-22  → Section : Section 2 : Visites domiciliaires, rang 17
+   OK    Code des douanes (nouveau), art. L423-23  → Section : Section 2 : Visites domiciliaires, rang 18
+   OK    Code des douanes (nouveau), art. L423-24  → Textes législatifs et réglementaires français, rang 3
+   OK    Code des douanes (nouveau), art. L423-25  → Section : Section 2 : Visites domiciliaires, rang 20
+   OK    Code des douanes (nouveau), art. L423-26  → Section : Section 2 : Visites domiciliaires, rang 21
+   OK    Code des douanes (nouveau), art. L423-27  → Textes législatifs et réglementaires français, rang 7
+   OK    Code des douanes (nouveau), art. L423-28  → Textes législatifs et réglementaires français, rang 6
+   OK    Code des douanes (nouveau), art. L423-29  → Section : Section 2 : Visites domiciliaires, rang 24
+   OK    Code des douanes (nouveau), art. L423-30  → Section : Section 2 : Visites domiciliaires, rang 25
+   OK    Code des douanes (nouveau), art. L423-31  → Textes législatifs et réglementaires français, rang 5
+
+Total : 45 attendus retrouvés sur 51
+   dont attendus d'origine « claude » : 11/12
+   dont attendus d'origine « vous » : 34/39

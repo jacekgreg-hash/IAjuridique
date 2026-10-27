@@ -1,0 +1,268 @@
+{
+ "_aide": "Chaque question a une date des faits (facultative) et la liste des textes ou décisions attendus. 'ref' : un morceau du libellé tel qu'il s'affiche dans les résultats, par exemple 'Code des douanes (nouveau), art. L443-1' ou 'n° 00-87.897'. 'origine' : 'vous' si l'attendu vient de vous, 'claude' si je l'ai déduit des résultats (à confirmer ou supprimer).",
+ "questions": [
+  {
+   "question": "nullité du procès-verbal de saisie douanière",
+   "faits": "2025-03-01",
+   "attendus": [
+    {
+     "ref": "Code des douanes (ancien), art. 325",
+     "origine": "vous"
+    },
+    {
+     "ref": "Code des douanes (nouveau), art. L443-1",
+     "origine": "vous"
+    },
+    {
+     "ref": "Code des douanes (nouveau), art. L443-3",
+     "origine": "vous"
+    },
+    {
+     "ref": "Code des douanes (nouveau), art. L443-4",
+     "origine": "vous"
+    },
+    {
+     "ref": "Code des douanes (nouveau), art. L443-5",
+     "origine": "vous"
+    },
+    {
+     "ref": "Code des douanes (nouveau), art. L443-6",
+     "origine": "vous"
+    },
+    {
+     "ref": "Code des douanes (nouveau), art. L443-7",
+     "origine": "vous"
+    },
+    {
+     "ref": "Code des douanes (ancien), art. 338",
+     "origine": "claude"
+    },
+    {
+     "ref": "n° 00-87.897",
+     "origine": "claude"
+    },
+    {
+     "ref": "n° 90-87.162",
+     "origine": "claude"
+    }
+   ]
+  },
+  {
+   "question": "droit de se taire retenue douanière",
+   "faits": "2025-03-01",
+   "attendus": [
+    {
+     "ref": "n° 10-88.809",
+     "origine": "claude"
+    },
+    {
+     "ref": "n° 11-80.034",
+     "origine": "claude"
+    },
+    {
+     "ref": "n° 11-88.589",
+     "origine": "claude"
+    },
+    {
+     "ref": "Code des douanes (ancien), art. 323-6",
+     "origine": "claude"
+    }
+   ]
+  },
+  {
+   "question": "Quelles sont les démarches et les documents nécessaires pour importer une arme en France ?",
+   "faits": null,
+   "attendus": [],
+   "note": "Hors code des douanes pour l'essentiel (armes : code de la sécurité intérieure ?) : teste le comportement « texte non disponible dans le corpus »."
+  },
+  {
+   "question": "Quels documents faut-il avoir pour un voyage avec un médicament classé comme stupéfiant ?",
+   "faits": null,
+   "attendus": [],
+   "note": "Probablement hors corpus (santé publique, Schengen) : teste le comportement « texte non disponible »."
+  },
+  {
+   "question": "Quel article du code des douanes reprend les injonctions d'arrêts ?",
+   "faits": null,
+   "attendus": [
+    {
+     "ref": "Code des douanes (nouveau), art. L422-19",
+     "origine": "claude"
+    },
+    {
+     "ref": "Code des douanes (nouveau), art. L513-17",
+     "origine": "claude"
+    }
+   ],
+   "note": "Ancien art. 61 repris par L422-19 (concordance) ; sanction : L513-17. À confirmer."
+  },
+  {
+   "question": "Comment est déterminée la valeur en douane ?",
+   "faits": null,
+   "attendus": [
+    {
+     "ref": "Règlement (UE) n° 952/2013, art. 69",
+     "origine": "vous"
+    },
+    {
+     "ref": "Règlement (UE) n° 952/2013, art. 70",
+     "origine": "vous"
+    },
+    {
+     "ref": "Règlement (UE) n° 952/2013, art. 71",
+     "origine": "vous"
+    },
+    {
+     "ref": "Règlement (UE) n° 952/2013, art. 72",
+     "origine": "vous"
+    },
+    {
+     "ref": "Règlement (UE) n° 952/2013, art. 74",
+     "origine": "vous"
+    }
+   ],
+   "note": "L'utilisateur confirme que ces articles du code des douanes de l'Union sont centraux (numéros proposés par Claude : à compléter ou corriger)."
+  },
+  {
+   "question": "Quels documents sont nécessaires à l'importation de déchets ?",
+   "faits": null,
+   "attendus": [
+    {
+     "ref": "Convention de Bâle, art. 4",
+     "origine": "claude"
+    },
+    {
+     "ref": "Règlement (UE) 2024/1157, art. 11",
+     "origine": "claude"
+    },
+    {
+     "ref": "Démarche Importer ou exporter des déchets",
+     "origine": "claude"
+    }
+   ],
+   "note": "Attendus proposés par Claude à partir des résultats : à confirmer ou corriger par un juriste."
+  },
+  {
+   "question": "Quels articles punissent le transport commercial de tabac sans document : contrebande, non-déclaration, marchandises réputées importées en contrebande ?",
+   "faits": null,
+   "attendus": [
+    {
+     "ref": "Code des douanes (nouveau), art. L513-5",
+     "origine": "vous"
+    }
+   ],
+   "note": "L513-5 attendu (utilisateur). L513-4 jugé non pertinent par l'utilisateur car il exclut explicitement le tabac. Autres articles attendus à compléter."
+  },
+  {
+   "question": "Quels sont les articles relatifs à la visite domiciliaire ?",
+   "faits": null,
+   "attendus": [
+    {
+     "ref": "Code des douanes (nouveau), art. L423-6",
+     "origine": "vous"
+    },
+    {
+     "ref": "Code des douanes (nouveau), art. L423-7",
+     "origine": "vous"
+    },
+    {
+     "ref": "Code des douanes (nouveau), art. L423-8",
+     "origine": "vous"
+    },
+    {
+     "ref": "Code des douanes (nouveau), art. L423-9",
+     "origine": "vous"
+    },
+    {
+     "ref": "Code des douanes (nouveau), art. L423-10",
+     "origine": "vous"
+    },
+    {
+     "ref": "Code des douanes (nouveau), art. L423-11",
+     "origine": "vous"
+    },
+    {
+     "ref": "Code des douanes (nouveau), art. L423-12",
+     "origine": "vous"
+    },
+    {
+     "ref": "Code des douanes (nouveau), art. L423-13",
+     "origine": "vous"
+    },
+    {
+     "ref": "Code des douanes (nouveau), art. L423-14",
+     "origine": "vous"
+    },
+    {
+     "ref": "Code des douanes (nouveau), art. L423-15",
+     "origine": "vous"
+    },
+    {
+     "ref": "Code des douanes (nouveau), art. L423-16",
+     "origine": "vous"
+    },
+    {
+     "ref": "Code des douanes (nouveau), art. L423-17",
+     "origine": "vous"
+    },
+    {
+     "ref": "Code des douanes (nouveau), art. L423-18",
+     "origine": "vous"
+    },
+    {
+     "ref": "Code des douanes (nouveau), art. L423-19",
+     "origine": "vous"
+    },
+    {
+     "ref": "Code des douanes (nouveau), art. L423-20",
+     "origine": "vous"
+    },
+    {
+     "ref": "Code des douanes (nouveau), art. L423-21",
+     "origine": "vous"
+    },
+    {
+     "ref": "Code des douanes (nouveau), art. L423-22",
+     "origine": "vous"
+    },
+    {
+     "ref": "Code des douanes (nouveau), art. L423-23",
+     "origine": "vous"
+    },
+    {
+     "ref": "Code des douanes (nouveau), art. L423-24",
+     "origine": "vous"
+    },
+    {
+     "ref": "Code des douanes (nouveau), art. L423-25",
+     "origine": "vous"
+    },
+    {
+     "ref": "Code des douanes (nouveau), art. L423-26",
+     "origine": "vous"
+    },
+    {
+     "ref": "Code des douanes (nouveau), art. L423-27",
+     "origine": "vous"
+    },
+    {
+     "ref": "Code des douanes (nouveau), art. L423-28",
+     "origine": "vous"
+    },
+    {
+     "ref": "Code des douanes (nouveau), art. L423-29",
+     "origine": "vous"
+    },
+    {
+     "ref": "Code des douanes (nouveau), art. L423-30",
+     "origine": "vous"
+    },
+    {
+     "ref": "Code des douanes (nouveau), art. L423-31",
+     "origine": "vous"
+    }
+   ],
+   "note": "Les articles L423-6 à L423-31 du nouveau code doivent tous être retrouvés (indication de l'utilisateur)."
+  }
+ ]
+}
